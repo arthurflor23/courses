@@ -1,4 +1,9 @@
 {
-  "name": "reactNativeCLI",
-  "displayName": "reactNativeCLI"
+  "expo": {
+    "name": "reactNativeCLI",
+    "slug": "expo.io/@arthur/react-native",
+    "android": {
+      "package": "com.teste.react"
+    }
+  }
 }

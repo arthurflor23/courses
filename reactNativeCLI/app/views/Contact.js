@@ -48,6 +48,10 @@ export class Contact extends React.Component {
           value={this.state.email}
         />
 
+        <TouchableHighlight onPress={this.sendMessage} underlayColor='#31e981'>
+          <Text style={styles.buttons}>Send Message</Text>
+        </TouchableHighlight>
+
         <TouchableHighlight onPress={this.clearFields} underlayColor='#31e981'>
           <Text style={styles.buttons} value={this.state.email}>Reset Form</Text>
         </TouchableHighlight>
@@ -60,9 +64,10 @@ export class Contact extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
+    backgroundColor: '#fff',
+    paddingBottom: '45%',
   },
   heading: {
     flex: 1,
