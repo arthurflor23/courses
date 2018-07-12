@@ -6,11 +6,11 @@ Repository with the projects from courses of the React Native
 
 ### Installing
 
-> npm i -g react-native-cli\
-> npm i -g react-devtools
+> npm i -g react-native-cli react-native-create-app\
 
 ### Extra
 
+> npm i -g react-devtools
 > npm i --save react-navigation
 
 ### Running
@@ -21,5 +21,7 @@ Repository with the projects from courses of the React Native
 ## Pluralsight
 
  1. React Native Fundamentals\
-    a. reactNativeCLI\
-    b. globo
+    a. globo\
+    b. reactNativeCLI
+ 2. React Native: Getting Started\
+    a. countdown

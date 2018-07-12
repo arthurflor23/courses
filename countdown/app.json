@@ -1,0 +1,15 @@
+{
+  "expo": {
+   "name": "Countdown",
+   "icon": "",
+   "version": "1.0.0",
+   "slug": "Countdown",
+   "sdkVersion": "27.0.0",
+   "ios": {
+     "bundleIdentifier": "com.course.countdown"
+   },
+   "android": {
+     "package": "com.course.countdown"
+   }
+  }
+}
