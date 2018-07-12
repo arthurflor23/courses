@@ -26,3 +26,5 @@ Repository with the projects from courses of the React Native
     b. reactNativeCLI
  2. React Native: Getting Started\
     a. countdown
+ 3. Build Cross Platform React Native Apps with Exponent and Redux\
+    a. PluralToDo

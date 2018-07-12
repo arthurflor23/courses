@@ -56,12 +56,7 @@ const styles = StyleSheet.create({
 });
 
 export default function EventCard({ event }) {
-  const {
-    days,
-    hours,
-    minutes,
-    seconds,
-  } =  getCountdownParts(event.date);
+  const { days, hours, minutes, seconds } = getCountdownParts(event.date);
 
   return (
     <TouchableHighlight>
@@ -71,30 +66,20 @@ export default function EventCard({ event }) {
           <Text style={styles.title}>{event.title}</Text>
         </View>
 
-        <View
-          style={styles.counterContainer}
-        >
-          <View
-            style={styles.counter}
-          >
+        <View style={styles.counterContainer}>
+          <View style={styles.counter}>
             <Text style={styles.counterText}>{days}</Text>
             <Text style={styles.counterLabel}>DAYS</Text>
           </View>
-          <View
-            style={styles.counter}
-          >
+          <View style={styles.counter}>
             <Text style={styles.counterText}>{hours}</Text>
             <Text style={styles.counterLabel}>HOURS</Text>
           </View>
-          <View
-            style={styles.counter}
-          >
+          <View style={styles.counter}>
             <Text style={styles.counterText}>{minutes}</Text>
             <Text style={styles.counterLabel}>MINUTES</Text>
           </View>
-          <View
-            style={styles.counter}
-          >
+          <View style={styles.counter}>
             <Text style={styles.counterText}>{seconds}</Text>
             <Text style={styles.counterLabel}>SECONDS</Text>
           </View>

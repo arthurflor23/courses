@@ -7,21 +7,21 @@ const MyRoutes = StackNavigator({
   list: {
     screen: EventList,
     navigationOptions: () => ({
-      title: 'Your events',
-    }),
+      title: "Your events"
+    })
   },
   form: {
     screen: EventForm,
     navigationOptions: () => ({
-      title: 'Add an event',
-    }),
-  },
+      title: "Add an event"
+    })
+  }
 }, {
-  initialRouteName: 'list',
-});
+    initialRouteName: "list"
+  });
 
 export default class App extends React.Component {
   render() {
-    return (<MyRoutes />);
+    return <MyRoutes />;
   }
 }
