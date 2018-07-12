@@ -21,6 +21,9 @@
   "dependencies": {
     "expo": "^27.0.1",
     "react": "16.3.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.2.tar.gz"
+    "react-native": "https://github.com/expo/react-native/archive/sdk-27.0.2.tar.gz",
+    "react-native-action-button": "^2.8.4",
+    "react-native-modal-datetime-picker": "^6.0.0",
+    "react-navigation": "^2.6.2"
   }
 }

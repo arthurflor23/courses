@@ -1,24 +1,27 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StackNavigator } from 'react-navigation';
+import EventList from './app/components/Event/EventList';
+import EventForm from './app/components/Event/EventForm';
+
+const MyRoutes = StackNavigator({
+  list: {
+    screen: EventList,
+    navigationOptions: () => ({
+      title: 'Your events',
+    }),
+  },
+  form: {
+    screen: EventForm,
+    navigationOptions: () => ({
+      title: 'Add an event',
+    }),
+  },
+}, {
+  initialRouteName: 'list',
+});
 
 export default class App extends React.Component {
   render() {
-    debugger;
-    return (
-      <View style={styles.container}>
-        <Text>Open up App.js to start working on your app!</Text>
-        <Text>Changes you make will automatically reload.</Text>
-        <Text>Shake your phone to open the developer menu.</Text>
-      </View>
-    );
+    return (<MyRoutes />);
   }
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});

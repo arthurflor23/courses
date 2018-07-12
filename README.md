@@ -6,12 +6,13 @@ Repository with the projects from courses of the React Native
 
 ### Installing
 
-> npm i -g react-native-cli react-native-create-app\
+> npm i -g react-native-cli react-native-create-app exp\
+> npm i --save react-navigation
 
 ### Extra
 
-> npm i -g react-devtools
-> npm i --save react-navigation
+> npm i -g react-devtools\
+> npm i -g json-server
 
 ### Running
 
