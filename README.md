@@ -1,6 +1,6 @@
-# React Native Courses
+# React Native / React Courses
 
-Repository with the projects from courses of the React Native
+Repository with the projects from courses of the React Native / React
 
 ## Requeriments
 
@@ -28,3 +28,5 @@ Repository with the projects from courses of the React Native
     a. countdown
  3. Build Cross Platform React Native Apps with Exponent and Redux\
     a. PluralToDo
+ 4. Building Applications with React and Redux in ES6\
+    a. pluralsight-redux-starter
