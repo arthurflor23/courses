@@ -30,3 +30,5 @@ Repository with the projects from courses of the React Native / React
     a. PluralToDo
  4. Building Applications with React and Redux in ES6\
     a. pluralsight-redux-starter
+ 5. RocketSeat\
+    a. workshop 
