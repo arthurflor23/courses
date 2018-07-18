@@ -32,3 +32,5 @@ Repository with the projects from courses of the React Native / React
     a. pluralsight-redux-starter
  5. RocketSeat\
     a. workshop 
+ 6. Salesforce Developers\
+    a. login-project 
