@@ -1,12 +1,12 @@
 # React Native / React Courses
 
-Repository with the projects from courses of the React Native / React
+Repository with projects from courses of the React Native / React
 
 ## Requeriments
 
 ### Installing
 
-> npm i -g react-native-cli react-native-create-app exp\
+> npm i -g react-native-cli react-native-create-app exp forcehybrid\
 > npm i --save react-navigation
 
 ### Extra
@@ -34,3 +34,5 @@ Repository with the projects from courses of the React Native / React
     a. workshop 
  6. Salesforce Developers\
     a. login-project 
+ 7. Trailhead - Salesforce SDK\
+    a. trailhead
