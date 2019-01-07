@@ -1,14 +1,4 @@
 app,category,rating,reviews,size,installs,type,price,content_rating,genres,last_uptaded,current_ver,android_ver
-Photo Editor & Candy Camera & Grid & ScrapBook,ART_AND_DESIGN,4.1,159,19,10,Free,0,Everyone,Art & Design,"January 7, 2018",1.0.0,4.0.3 and up
-Coloring book moana,ART_AND_DESIGN,3.9,967,14,500,Free,0,Everyone,Art & Design;Pretend Play,"January 15, 2018",2.0.0,4.0.3 and up
-"U Launcher Lite – FREE Live Cool Themes, Hide Apps",ART_AND_DESIGN,4.7,87510,8.7,5000000,Free,0,Everyone,Art & Design,"August 1, 2018",1.2.4,4.0.3 and up
-Sketch - Draw & Paint,ART_AND_DESIGN,4.5,215644,25,50000000,Free,0,Teen,Art & Design,"June 8, 2018",0,4.2 and up
-Pixel Draw - Number Art Coloring Book,ART_AND_DESIGN,4.3,967,2.8,100,Free,0,Everyone,Art & Design;Creativity,"June 20, 2018",1.1,4.4 and up
-Paper flowers instructions,ART_AND_DESIGN,4.4,167,5.6,50,Free,0,Everyone,Art & Design,"March 26, 2017",1.0,2.3 and up
-Smoke Effect Photo Maker - Smoke Editor,ART_AND_DESIGN,3.8,178,19,50,Free,0,Everyone,Art & Design,"April 26, 2018",1.1,4.0.3 and up
-Infinite Painter,ART_AND_DESIGN,4.1,36815,29,1000000,Free,0,Everyone,Art & Design,"June 14, 2018",6.1.61.1,4.2 and up
-Garden Coloring Book,ART_AND_DESIGN,4.4,13791,33,1000000,Free,0,Everyone,Art & Design,"September 20, 2017",2.9.2,3.0 and up
-Kids Paint Free - Drawing Fun,ART_AND_DESIGN,4.7,121,3.1,10,Free,0,Everyone,Art & Design;Creativity,"July 3, 2018",2.8,4.0.3 and up
 Text on Photo - Fonteee,ART_AND_DESIGN,4.4,13880,28,1000000,Free,0,Everyone,Art & Design,"October 27, 2017",1.0.4,4.1 and up
 Name Art Photo Editor - Focus n Filters,ART_AND_DESIGN,4.4,8788,12,1000000,Free,0,Everyone,Art & Design,"July 31, 2018",1.0.15,4.0 and up
 Tattoo Name On My Photo Editor,ART_AND_DESIGN,4.2,44829,20,10000000,Free,0,Teen,Art & Design,"April 2, 2018",3.8,4.1 and up
@@ -51,16 +41,6 @@ How To Draw Food,ART_AND_DESIGN,4.3,845,7.9,100,Free,0,Everyone,Art & Design,"Ma
 Monster Truck Stunt 3D 2019,AUTO_AND_VEHICLES,4.2,367,25,100,Free,0,Everyone,Auto & Vehicles,"May 10, 2018",1.0,4.0.3 and up
 Real Tractor Farming,AUTO_AND_VEHICLES,4.0,1598,56,1000000,Free,0,Everyone,Auto & Vehicles,"July 26, 2018",11.0,4.1 and up
 Ultimate F1 Racing Championship,AUTO_AND_VEHICLES,3.8,284,57,100,Free,0,Everyone,Auto & Vehicles,"July 26, 2018",3.0,4.1 and up
-Used Cars and Trucks for Sale,AUTO_AND_VEHICLES,4.6,17057,0,1000000,Free,0,Everyone,Auto & Vehicles,"July 30, 2018",0,0
-American Muscle Car Race,AUTO_AND_VEHICLES,3.9,129,35,100,Free,0,Everyone,Auto & Vehicles,"July 26, 2018",3.0,4.1 and up
-Offroad Oil Tanker Driver Transport Truck 2019,AUTO_AND_VEHICLES,4.3,542,33,100,Free,0,Everyone,Auto & Vehicles,"July 31, 2018",4.0,4.1 and up
-Tickets SDA 2018 and Exam from the State Traffic Safety Inspectorate with Drom.ru,AUTO_AND_VEHICLES,4.9,10479,33,100,Free,0,Everyone,Auto & Vehicles,"July 18, 2018",1.7.1,4.0 and up
-Gas Prices (Germany only),AUTO_AND_VEHICLES,4.4,805,5.6,50,Free,0,Everyone,Auto & Vehicles,"July 29, 2018",2.5.1,4.4 and up
-Extreme Rally Championship,AUTO_AND_VEHICLES,4.2,129,54,100,Free,0,Everyone,Auto & Vehicles,"July 26, 2018",3.0,4.1 and up
-Restart Navigator,AUTO_AND_VEHICLES,4.0,1403,201,100,Free,0,Everyone,Auto & Vehicles,"August 26, 2014",1.0.1,2.2 and up
-"REG - Check the regnumber, find information about Swedish vehicles",AUTO_AND_VEHICLES,3.9,3971,3.6,100,Free,0,Everyone,Auto & Vehicles,"July 30, 2018",2493,4.4 and up
-CityBus Lviv,AUTO_AND_VEHICLES,4.6,534,5.7,10,Free,0,Everyone,Auto & Vehicles,"July 8, 2018",1.9.1,4.0.3 and up
-CDL Practice Test 2018 Edition,AUTO_AND_VEHICLES,4.9,7774,17,100,Free,0,Everyone,Auto & Vehicles,"July 3, 2018",1.7,4.2 and up
 "ezETC (ETC balance inquiry, meter trial, real-time traffic)",AUTO_AND_VEHICLES,4.3,38846,8.6,1000000,Free,0,Everyone,Auto & Vehicles,"July 28, 2018",2.20 Build 02,4.1 and up
 Free VIN Report for Used Cars,AUTO_AND_VEHICLES,4.6,2431,2.4,100,Free,0,Everyone,Auto & Vehicles,"June 12, 2018",1.37,4.0 and up
 DMV Permit Practice Test 2018 Edition,AUTO_AND_VEHICLES,4.9,6090,27,100,Free,0,Everyone,Auto & Vehicles,"July 3, 2018",1.7,4.2 and up
@@ -104,16 +84,6 @@ Natural recipes for your beauty,BEAUTY,4.7,1150,9.8,100,Free,0,Everyone,Beauty,"
 Mirror - Zoom & Exposure -,BEAUTY,3.9,32090,0,1000000,Free,0,Everyone,Beauty,"October 24, 2016",0,0
 Beauty Selfie Camera,BEAUTY,4.2,2225,52,500,Free,0,Everyone,Beauty,"February 28, 2018",1.6,4.1 and up
 Hairstyles step by step,BEAUTY,4.6,4369,14,100,Free,0,Everyone,Beauty,"July 25, 2018",1.9,4.0.3 and up
-Filters for Selfie,BEAUTY,4.3,8572,25,1000000,Free,0,Everyone,Beauty,"May 10, 2018",1.1.0,4.0 and up
-Tie - Always be happy,BEAUTY,4.7,964,9.0,50,Free,0,Everyone,Beauty,"June 21, 2018",4.0,4.2 and up
-Ulta Beauty,BEAUTY,4.7,42050,0,1000000,Free,0,Everyone,Beauty,"June 5, 2018",5.4,5.0 and up
-Prom MakeUp Tutorial,BEAUTY,4.8,104,12,10,Free,0,Everyone,Beauty,"June 26, 2018",1.3,4.0.3 and up
-Selfie Camera,BEAUTY,4.2,17934,0,1000000,Free,0,Everyone,Beauty,"September 12, 2017",0,0
-Sweet Selfie Beauty Camera,BEAUTY,4.3,601,35,100,Free,0,Everyone,Beauty,"June 2, 2018",2.0.0,4.0 and up
-Colors of white in Urdu,BEAUTY,4.5,36,6.7,10,Free,0,Everyone,Beauty,"July 26, 2018",6.0,4.0 and up
-Selfie Camera Photo Editor & Filter & Sticker,BEAUTY,4.1,187,30,50,Free,0,Teen,Beauty,"July 24, 2018",3.0.1,4.0.3 and up
-Wrinkles and rejuvenation,BEAUTY,0,182,5.7,100,Free,0,Everyone 10,Beauty,"September 20, 2017",8.0,3.0 and up
-Eyes Makeup Beauty Tips,BEAUTY,4.2,30,2.9,10,Free,0,Everyone,Beauty,"April 9, 2018",3.3.9,4.0.3 and up
 Photo Editor 2018,BEAUTY,4.5,134,17,10,Free,0,Everyone,Beauty,"March 1, 2018",1.20,4.0.3 and up
 Step By Step Eyes Makeup Tutorial,BEAUTY,4.4,74,2.9,10,Free,0,Everyone,Beauty,"April 5, 2018",2.3.09,4.0.3 and up
 Beauty Camera - Selfie Camera,BEAUTY,4.0,113715,0,10000000,Free,0,Everyone,Beauty,"August 3, 2017",0,0
@@ -4357,11 +4327,6 @@ M3-X5-X6-M-İ3-İ8 RACİNG 2018,GAME,4.4,596,44,100,Free,0,Everyone,Arcade,"Febr
 MEGA,PRODUCTIVITY,4.0,549214,0,50000000,Free,0,Everyone,Productivity,"July 4, 2018",0,0
 360-M Flight,TOOLS,3.9,84,24,10,Free,0,Everyone,Tools,"December 14, 2017",2.18,4.0.3 and up
 M-acceleration 3D Car Racing,GAME,3.9,1202,34,100,Free,0,Everyone,Racing,"June 28, 2018",1.6,4.1 and up
-m>notes notepad,PRODUCTIVITY,4.3,184,0,1,Paid,2.99,Everyone,Productivity,"December 4, 2015",0,2.2 and up
-,NEWS_AND_MAGAZINES,4.9,198,9.1,10,Free,0,Everyone,News & Magazines,"May 29, 2018",3.2.2,5.0 and up
-Super Hero M Craft Run,GAME,3.7,303,38,100,Free,0,Everyone,Arcade,"July 12, 2017",1.6,4.0.3 and up
-M-Sight Pro,VIDEO_PLAYERS,3.3,30,15,5,Free,0,Everyone,Video Players & Editors,"July 25, 2018",3.1.0.1-r4,4.0 and up
-💎 I'm rich,LIFESTYLE,3.8,718,26,10,Paid,399.99,Everyone,Lifestyle,"March 11, 2018",1.0.0,4.4 and up
 Don't Hug Me I'm So Scared,GAME,3.5,901,63,50,Free,0,Everyone,Adventure,"June 8, 2018",1.8.5,2.3 and up
 GTS-,TOOLS,4.2,38,251,5,Free,0,Everyone,Tools,"January 26, 2017",1.4,1.6 and up
 MX Player,VIDEO_PLAYERS,4.5,6469179,0,500000000,Free,0,Everyone,Video Players & Editors,"August 1, 2018",0,0
@@ -4373,7 +4338,6 @@ M Notifier for M Launcher,TOOLS,4.2,2803,1.4,100,Free,0,Everyone,Tools,"February
 M Theme - Dark Green Icon Pack,PERSONALIZATION,4.2,202,4.9,10,Free,0,Everyone,Personalization,"November 16, 2016",1.2.3,3.0 and up
 m-Faisaa,FINANCE,4.0,142,6.2,10,Free,0,Everyone,Finance,"July 13, 2018",5.3,4.0.3 and up
 m:go BiH,COMMUNICATION,3.2,559,6.0,10,Free,0,Everyone,Communication,"July 25, 2018",3.4,3.0 and up
-Diabetes:,MEDICAL,4.6,15537,0,100,Free,0,Everyone,Medical,"August 1, 2018",6.1.3,0
 Libre Scan (Diabetes:M addon),MEDICAL,2.4,102,1.2,10,Free,0,Everyone,Medical,"July 9, 2017",1.2,4.4 and up
 m.ride - your motorcycle app,AUTO_AND_VEHICLES,4.5,189,16,10,Free,0,Everyone,Auto & Vehicles,"July 3, 2018",1.1.6,6.0 and up
 Rope'n'Fly 4,GAME,4.1,234606,59,10000000,Free,0,Everyone,Action,"January 29, 2018",3.1,2.3 and up
@@ -7750,7 +7714,6 @@ Cypress College Library,BOOKS_AND_REFERENCE,0,0,2.1,100,Free,0,Everyone,Books & 
 Create My App,BUSINESS,0,0,11,10,Free,0,Everyone,Business,"April 24, 2018",1.0.5,4.1 and up
 Snowboard Racing Free Fun Game,GAME,3.8,4552,43,100,Free,0,Everyone,Racing,"October 26, 2016",1.4.0,2.3.3 and up
 theCut,LIFESTYLE,4.7,499,6.9,50,Free,0,Everyone,Lifestyle,"May 10, 2018",1.2.7,4.1 and up
-الفاتحون Conquerors,FAMILY,4.5,108130,40,5000000,Free,0,Teen,Strategy,"August 3, 2018",1.8.0,4.0 and up
 Toughest Game Ever 2,GAME,4.6,293086,0,5000000,Free,0,Everyone,Action,"October 22, 2015",8.1,4.0.3 and up
 RIDE ZERO,GAME,4.6,8778,36,100,Free,0,Teen,Music,"January 2, 2018",1.3.1,4.3 and up
 CricQuick,SPORTS,5.0,17,1.5,50,Free,0,Everyone,Sports,"December 8, 2017",1.0,4.0.3 and up
@@ -9116,7 +9079,6 @@ News Dz,SOCIAL,0,3,9.9,10,Free,0,Everyone,Social,"July 19, 2017",1.0,4.0 and up
 My Ooredoo Algeria,TOOLS,4.2,3606,17,100,Free,0,Everyone,Tools,"June 24, 2018",1.22.1,4.4 and up
 Currency Exchange DZ,FINANCE,0,4,2.5,1,Free,0,Everyone,Finance,"November 10, 2016",1.0,2.3 and up
 PHARMAGUIDE (DZ),HEALTH_AND_FITNESS,4.1,131,3.4,5,Free,0,Everyone,Health & Fitness,"April 1, 2016",1.06,1.6 and up
-لعبة تقدر تربح DZ,FAMILY,4.2,238,6.8,10,Free,0,Everyone,Education,"November 18, 2016",6.0.0.0,4.1 and up
 DEM DZ,HEALTH_AND_FITNESS,0,2,957,100,Free,0,Teen,Health & Fitness,"November 13, 2017",1.0,2.3.3 and up
 chat dz,COMMUNICATION,5.0,8,29,100,Free,0,Teen,Communication,"March 14, 2018",1.0,4.1 and up
 Devise Dz,FINANCE,4.0,26,3.6,1,Free,0,Everyone,Finance,"May 29, 2017",1.0.0,4.0 and up
@@ -9307,7 +9269,6 @@ Carrier Landings Pro,FAMILY,4.6,5969,31,10,Paid,12.99,Everyone,Simulation,"June 
 EF Calculator,PRODUCTIVITY,4.7,19,0,1,Free,0,Everyone,Productivity,"September 20, 2017",1.6.1,0
 EF Utilities,TOOLS,0,0,3.6,5,Free,0,Everyone,Tools,"June 7, 2018",1.1.0,4.3 and up
 EF Financial Control Free,FINANCE,4.4,58,3.7,10,Free,0,Everyone,Finance,"May 6, 2018",1.9.0,4.0.3 and up
-أحداث وحقائق | خبر عاجل في اخبار العالم,NEWS_AND_MAGAZINES,4.8,311,14,5,Free,0,Everyone 10,News & Magazines,"July 15, 2018",2.9.19a,4.2 and up
 Diário Escola Mestres EF,FAMILY,0,11,6.6,1,Free,0,Everyone,Education,"July 31, 2018",3.0.18 Fundamental,4.0 and up
 EF Jumper,GAME,0,4,5.1,100,Free,0,Everyone,Arcade,"July 13, 2017",Build 12,2.2 - 7.1.1
 StudyLock - Education First,PARENTING,4.1,27,4.6,1,Free,0,Everyone,Parenting,"October 12, 2017",1.13,4.1 and up
