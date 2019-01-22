@@ -26,9 +26,12 @@ from tensorflow_transform.beam import impl as tft
 from tensorflow_transform.beam import tft_beam_io
 from tensorflow_transform.tf_metadata import dataset_metadata
 
+os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
+import tensorflow as tf
+tf.logging.set_verbosity(tf.logging.ERROR)
+
 EVAL_TYPES = ['regression', 'ranking']
 REGRESSION, RANKING = EVAL_TYPES
-
 
 def _default_project():
   get_project = ['gcloud', 'config', 'list', 'project',
