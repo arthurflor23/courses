@@ -18,7 +18,6 @@ import os
 import random
 import subprocess
 import sys
-
 import apache_beam as beam
 
 from tensorflow_transform import coders as tft_coders

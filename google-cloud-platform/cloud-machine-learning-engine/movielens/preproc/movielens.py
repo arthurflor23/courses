@@ -151,11 +151,12 @@ def _make_schema(columns, types, default_values):
   result = {}
   assert len(columns) == len(types)
   assert len(columns) == len(default_values)
+  
   for c, t, v in zip(columns, types, default_values):
     if isinstance(t, list):
       result[c] = tf.VarLenFeature(dtype=t[0])
     else:
-      result[c] = tf.FixedLenFeature(shape=[], dtype=t, default_value=v)
+      result[c] = tf.FixedLenFeature(shape=[], dtype=t, default_value=v)  
   return dataset_schema.from_feature_spec(result)
 
 
