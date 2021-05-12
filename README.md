@@ -1,3 +1,3 @@
 # Courses
 
-Repository with projects used in courses
+Repository with classroom projects.
