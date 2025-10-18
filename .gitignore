@@ -3,7 +3,6 @@ backup/
 datasets/
 mlruns/
 outputs/
-scripts/
 
 # Hidden files
 .directory
